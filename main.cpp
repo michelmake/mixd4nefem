@@ -40,7 +40,7 @@ int main(int argc, char **argv)
 {
     namespace po = boost::program_options;
 
-    std::cout << "NefemRenumber" << std::endl;
+    std::cout << "mixd4nefem:" << std::endl;
     std::cout << "========================================" << std::endl << std::endl;
 
     std::string mxyz_filename     = "mxyz.space";
